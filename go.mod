@@ -13,7 +13,7 @@ require (
 	github.com/prometheus/client_golang v1.12.1
 	golang.org/x/crypto v0.0.0-20220112180741-5e0467b6c7ce
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
-	golang.org/x/sys v0.0.0-20220204135822-1c1b9b1eba6a
-	google.golang.org/api v0.68.0
+	golang.org/x/sys v0.0.0-20220412211240-33da011f77ad
+	google.golang.org/api v0.75.0
 	gopkg.in/yaml.v2 v2.4.0
 )
