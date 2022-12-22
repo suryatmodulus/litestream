@@ -12,7 +12,7 @@ require (
 	github.com/googleapis/gax-go/v2 v2.5.1 // indirect
 	github.com/mattn/go-ieproxy v0.0.7 // indirect
 	github.com/mattn/go-shellwords v1.0.12
-	github.com/mattn/go-sqlite3 v1.14.14
+	github.com/mattn/go-sqlite3 v1.14.16
 	github.com/pierrec/lz4/v4 v4.1.15
 	github.com/pkg/sftp v1.13.5
 	github.com/prometheus/client_golang v1.13.0
